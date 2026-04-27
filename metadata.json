@@ -1,0 +1,32 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "description": "Tether USD is a stablecoin pegged to the US dollar.",
+    "image": "https://raw.githubusercontent.com/RenatoDoutbox/Usdt/main/usdt.png",
+    "external_url": "https://tether.com",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Stablecoin"
+      },
+      {
+        "trait_type": "Network",
+        "value": "Solana Devnet"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/RenatoDoutbox/Usdt/main/usdt.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "BLY2VrDZuUbAsd5FoVbv4SuTBqCXAbJdD4nwiWVUQij2",
+          "share": 100
+        }
+      ]
+    }
+  }
