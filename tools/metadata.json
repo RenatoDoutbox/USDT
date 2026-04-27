@@ -1,6 +1,5 @@
 {
-  "name": "NuToken",
-  "symbol": "NUT",
-  "description": "Token de testes no Devnet",
-  "image": "https://nuvende.com.br/img/logo-nuvende-green.svg"   
+  "name": "USDT",
+  "symbol": "USDT",
+  "uri": "https://raw.githubusercontent.com/RenatoDoutbox/USDT/main/metadata.json"
 }
